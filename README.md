@@ -4,11 +4,11 @@ utilizando o JavaScript , Html e CSS.
 
 O usuário escolhe a mensagem desejada , e recebe um prompt para inserir o número de sua escolha com o DDD , se o usuário tiver o WhatsApp instalado ele envia diretamente para a conversa com o número escolhido.
 
-#Tecnologias
+# Tecnologias
 
-##HTML
-##CSS
-#JAVASCRIPT
+## HTML
+## CSS
+# JAVASCRIPT
 
 
   
